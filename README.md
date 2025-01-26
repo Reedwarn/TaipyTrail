@@ -14,7 +14,7 @@ This project was developed as part of my learning journey on **StackUp**, a lear
 ## Preview
 Here’s a screenshot of the chatbot in action:
 
-![Chatbot Screenshot](https://github.com/Reedwarn/TaipyTrail/blob/e31b30c090db75f74f9cc0bbbe87bb28de3faca4/data/Screenshot%20(77).png)
+![Chatbot Screenshot](https://github.com/Reedwarn/TaipyTrail/blob/8a9ded14ee35fc425f49b41b45a9042253b6b2ac/data/preview.png)
 
 ## Technologies Used
 - **Python**: The core programming language used for development.
